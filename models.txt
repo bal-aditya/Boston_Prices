@@ -1,0 +1,13 @@
+Model outputs
+
+Decision Tree:
+mean: 4.20132350177099 
+std : 0.5960538765167513
+
+Linear regression:
+mean:5.030448163818514 
+std : 1.0604324210372382
+
+random forest:
+mean: 3.368338437141916 
+std : 0.6822570739431933
